@@ -1,0 +1,21 @@
+.Country{
+    text-align: center;
+    border: 2px solid goldenrod;
+    border-radius: 15px;
+    padding: 10px;
+}
+.Country button{
+    font-size: 20px;
+    padding: 10px 15px;
+    font-weight: bold;
+    background-color: #B8001F;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.visited{
+    background-color: #10375C;
+    color: #fff;
+}
